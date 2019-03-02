@@ -2,6 +2,8 @@
 Collection of Python related links which I personally found useful. Note necessarily in any order. Some are beginners friendly. Some are a bit advanced. 
 
  - [Speed Up Your Python Program with Concurrency](http://www.pybloggers.com/2019/01/speed-up-your-python-program-with-concurrency/)
+ - [Getting Started Testing - Ned Batchelder](https://nedbatchelder.com/text/test0.html)
+ - [Lambda Functions in Python: What Are They Good For?](https://dbader.org/blog/python-lambda-functions)
  - [Asterisks in Python: what they are and how to use them](https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/)
  - [Python, signal handlers, and exceptions](https://anonbadger.wordpress.com/2018/12/15/python-signal-handlers-and-exceptions/)
  - [A Guide to Python's Magic Methods](https://rszalski.github.io/magicmethods/). Also see this [HN link](https://news.ycombinator.com/item?id=17727083)
